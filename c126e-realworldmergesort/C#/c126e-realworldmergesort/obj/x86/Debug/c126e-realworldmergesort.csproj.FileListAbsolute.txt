@@ -1,0 +1,4 @@
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c126e-realworldmergesort\c126e-realworldmergesort\bin\Debug\c126e-realworldmergesort.exe
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c126e-realworldmergesort\c126e-realworldmergesort\bin\Debug\c126e-realworldmergesort.pdb
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c126e-realworldmergesort\c126e-realworldmergesort\obj\x86\Debug\c126e-realworldmergesort.exe
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c126e-realworldmergesort\c126e-realworldmergesort\obj\x86\Debug\c126e-realworldmergesort.pdb
