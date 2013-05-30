@@ -1,0 +1,4 @@
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c127e-mcarthy91\mcarthy91\mcarthy91\bin\Debug\mcarthy91.exe
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c127e-mcarthy91\mcarthy91\mcarthy91\bin\Debug\mcarthy91.pdb
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c127e-mcarthy91\mcarthy91\mcarthy91\obj\x86\Debug\mcarthy91.exe
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c127e-mcarthy91\mcarthy91\mcarthy91\obj\x86\Debug\mcarthy91.pdb
