@@ -1,0 +1,4 @@
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c126i-perfectpthpowers\c126i-perfectpthpowers\bin\Debug\c126i-perfectpthpowers.exe
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c126i-perfectpthpowers\c126i-perfectpthpowers\bin\Debug\c126i-perfectpthpowers.pdb
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c126i-perfectpthpowers\c126i-perfectpthpowers\obj\x86\Debug\c126i-perfectpthpowers.exe
+C:\Users\Cory\Documents\Code Practice\dailyprogrammer\c126i-perfectpthpowers\c126i-perfectpthpowers\obj\x86\Debug\c126i-perfectpthpowers.pdb
